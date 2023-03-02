@@ -3,12 +3,13 @@
 }
 
 .main-page img {
-  width: 98.7vw;
+  width: 100%;
   filter: brightness(40%);
 }
 
 .main-page {
   position: relative;
+  width: 100%;
 }
 
 .all-content {
