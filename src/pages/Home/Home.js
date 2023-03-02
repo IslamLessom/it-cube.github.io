@@ -34,16 +34,7 @@ function Home({ isAuth }) {
       {postLists.map((post, index) => {
         return (
           <div className='post' key={index}>
-            <div className='editor'>
-              <div className='edit'>
-                <Link to={`/update/${post.id}`}>
-                {auth.lastNotifiedUid === 'uhQNDHD6QTMnziRYqN7eqAPS3gh2' && (
-                  <button>edit</button>
-                )}
-                  
-                </Link>
-                
-              </div>
+      
               <div className='view'>
                 <ModalView  onClick={() => { viewPost(post.id) }} />
               </div>
