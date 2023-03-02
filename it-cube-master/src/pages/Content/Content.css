@@ -1,0 +1,142 @@
+* {
+  font-family: "Montserrat", sans-serif;
+}
+
+.main-page img {
+  width: 100%;
+  filter: brightness(40%);
+}
+
+.main-page {
+  position: relative;
+  width: 100%;
+}
+
+.all-content {
+  position: absolute;
+  bottom: 9px;
+}
+
+.name-site {
+  position: absolute;
+  height: 80%;
+  bottom: 0;
+  margin-left: 150px;
+  color: white;
+}
+
+.name-site h1 {
+  font-size: 100px;
+}
+
+.name-site h2 {
+  font-size: 60px;
+}
+
+.name-site h3 {
+  font-size: 50px;
+}
+
+.button-content button {
+  display: flex;
+  align-items: center;
+  border-radius: 10px;
+  padding: 10px;
+  background: #004a8d;
+  border: none;
+  color: white;
+  margin-top: 30px;
+}
+
+.button-content img {
+  width: 45px;
+  margin-left: 10px;
+  filter: none;
+}
+
+.about-it {
+  text-align: center;
+  margin-top: 20px;
+  font-size: 30px;
+  color: #004a8d;
+  width: 100%;
+}
+
+@media (max-width: 992px) {
+  .name-site h3 {
+    font-size: 45px;
+  }
+  .name-site h1 {
+    font-size: 65px;
+  }
+  .name-site h2 {
+    font-size: 50px;
+  }
+  .name-site {
+    margin-left: 30px;
+  }
+  .main-page img {
+    width: 100vw;                                                                       
+  }
+  .button-content button {
+    width: 350px;
+    height: 55px;
+    margin-top: 40px;
+    padding-top: 15px;
+  }
+  .button-content img {
+    width: 40px;
+  }
+}
+
+@media (max-width: 768px) {
+  .name-site h3 {
+    font-size: 35px;
+  }
+  .name-site h1 {
+    font-size: 50px;
+  }
+  .name-site h2 {
+    font-size: 45px;
+  }
+  .name-site {
+    margin-left: 20px;
+  }
+  .main-page img {
+    width: 100%;
+  }
+  .button-content button {
+    width: 320px;
+    height: 55px;
+    margin-top: 8px;
+  }
+  .button-content img {
+    width: 40px;
+  }
+}
+
+@media (max-width: 500px) {
+  .name-site h3 {
+    font-size: 25px;
+  }
+  .name-site h1 {
+    font-size: 43px;
+  }
+  .name-site h2 {
+    font-size: 25px;
+  }
+  .name-site {
+    margin-left: 20px;
+  }
+  .main-page img {
+    width: 100%;
+  }
+  .button-content button {
+    width: 220px;
+    height: 50px;
+    margin-top: 5px;
+  }
+  .button-content img {
+    width: 40px;
+  }
+}
