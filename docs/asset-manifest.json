@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.71e66b71.css",
+    "main.js": "/static/js/main.dba324db.js",
+    "static/media/back.png": "/static/media/back.eac498f66a36b85a72b3.png",
+    "static/media/it-cube.png": "/static/media/it-cube.85ba49b972fe990cf5a3.png",
+    "static/media/python.svg": "/static/media/python.5e271b971428059fbbd3fcaa2ce4e288.svg",
+    "static/media/vr.svg": "/static/media/vr.c3af42ece4f2890fec6efe0a77777de2.svg",
+    "static/media/play.png": "/static/media/play.74559e61c242e7ad02eb.png",
+    "static/media/it-cube-carousel.png": "/static/media/it-cube-carousel.cb03e479e1b4b70d155c.png",
+    "static/media/user.png": "/static/media/user.d54b5cea3dabfb92c990.png",
+    "static/media/robo_1.svg": "/static/media/robo_1.d3b808e8268e2629b7843669c47edc09.svg",
+    "static/media/call.png": "/static/media/call.70f32ad4514d9bdb6f91.png",
+    "static/media/view.png": "/static/media/view.2ad2786302d7fbc351d0.png",
+    "static/media/log-out.png": "/static/media/log-out.ca77695ca2d1ed8ce39c.png",
+    "static/media/delete.png": "/static/media/delete.ea5c2f03783ec889d860.png",
+    "static/media/ok.png": "/static/media/ok.50ced4fbbc612b6b3f85.png",
+    "static/media/telegram.png": "/static/media/telegram.1b10e322db2abb437b8d.png",
+    "static/media/placeholder.png": "/static/media/placeholder.0c110d260bc5caa33a37.png",
+    "static/media/revicons.eot": "/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/email.png": "/static/media/email.9082177d266cee25a57b.png",
+    "static/media/youtube.png": "/static/media/youtube.0a327a8b8a494630d52f.png",
+    "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/index.html",
+    "main.71e66b71.css.map": "/static/css/main.71e66b71.css.map",
+    "main.dba324db.js.map": "/static/js/main.dba324db.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71e66b71.css",
+    "static/js/main.dba324db.js"
+  ]
+}
